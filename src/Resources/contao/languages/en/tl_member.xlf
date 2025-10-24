@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" datatype="plaintext" original="tl_member">
+    <body>
+      <trans-unit id="export.0">
+        <source>Start export</source>
+      </trans-unit>
+      <trans-unit id="export.1">
+        <source>Export members</source>
+      </trans-unit>
+      <trans-unit id="export_description">
+        <source>Export the member list to different formats. Choose your format and options.</source>
+      </trans-unit>
+      <trans-unit id="export_format">
+        <source>Format</source>
+      </trans-unit>
+      <trans-unit id="export_format_ref.csv">
+        <source>CSV</source>
+      </trans-unit>
+      <trans-unit id="export_format_ref.excel5">
+        <source>Excel 5 (.xls)</source>
+      </trans-unit>
+      <trans-unit id="export_format_ref.excel2007">
+        <source>Excel 2007+ (.xlsx)</source>
+      </trans-unit>
+      <trans-unit id="export_headerFields">
+        <source>Include header row</source>
+      </trans-unit>
+      <trans-unit id="export_raw">
+        <source>Output raw values</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+

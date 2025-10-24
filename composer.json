@@ -1,0 +1,20 @@
+{
+  "name": "dievirtuellecouch/contao-member-csv-export",
+  "description": "Export tl_member to CSV/XLSX for Contao 5.3",
+  "type": "contao-bundle",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.1",
+    "contao/core-bundle": "^5.3",
+    "codefog/contao-haste": "*",
+    "phpoffice/phpspreadsheet": "^1.25 || ^2.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Websailing\\MemberExportBundle\\": "src/"
+    }
+  },
+  "extra": {
+    "contao-manager-plugin": "Websailing\\MemberExportBundle\\ContaoManager\\Plugin"
+  }
+}

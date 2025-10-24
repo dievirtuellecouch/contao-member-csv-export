@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="de" datatype="plaintext" original="tl_member">
+    <body>
+      <trans-unit id="export.0">
+        <source>Export starten</source>
+      </trans-unit>
+      <trans-unit id="export.1">
+        <source>Mitglieder exportieren</source>
+      </trans-unit>
+      <trans-unit id="export_description">
+        <source>Exportieren Sie die Mitgliederliste in verschiedene Formate. Wählen Sie das gewünschte Format und Optionen.</source>
+      </trans-unit>
+      <trans-unit id="export_format">
+        <source>Format</source>
+      </trans-unit>
+      <trans-unit id="export_format_ref.csv">
+        <source>CSV</source>
+      </trans-unit>
+      <trans-unit id="export_format_ref.excel5">
+        <source>Excel 5 (.xls)</source>
+      </trans-unit>
+      <trans-unit id="export_format_ref.excel2007">
+        <source>Excel 2007+ (.xlsx)</source>
+      </trans-unit>
+      <trans-unit id="export_headerFields">
+        <source>Spaltenüberschriften ausgeben</source>
+      </trans-unit>
+      <trans-unit id="export_raw">
+        <source>Rohdaten ausgeben</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+
