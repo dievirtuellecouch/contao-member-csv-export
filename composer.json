@@ -1,6 +1,6 @@
 {
   "name": "dievirtuellecouch/contao-member-csv-export",
-  "description": "Export tl_member to CSV/XLSX for Contao 5.3",
+  "description": "Export members to CSV/XLSX for Contao 5.3",
   "type": "contao-bundle",
   "license": "proprietary",
   "require": {
